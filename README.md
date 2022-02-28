@@ -1,7 +1,5 @@
 Olá, eu sou o Matheus e estou iniciando a minha carreira como desenvolvedor!
 
-- 🌱 Estudando JavaScript e desenvolvendo como front-end
-
 <div align="center">
   <a href="https://github.com/matheusoaresz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusoaresz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

@@ -2,7 +2,9 @@
 
 <h3 align="center">I'm a fullstack developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://training.grandioseautomation.com/wp-content/uploads/2021/08/PLC-Programming.gif">
+<img align="right" alt="coding" width="400" src="https://www.webplat.in/Content/images/services/web%20dev.gif">
+
+
 
 
 

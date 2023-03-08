@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matheus Soares</h1>
+
+<h3 align="center">I'm a fullstack developer</h3>
+
+<img align="right" alt="coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-34.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusoaresilva&label=Profile%20views&color=0e75b6&style=flat" alt="matheusoaresilva" /> </p>
 
 <h3 align="left">Connect with me:</h3>

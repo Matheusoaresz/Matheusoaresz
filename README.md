@@ -2,7 +2,9 @@
 
 <h3 align="center">I'm a fullstack developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-34.gif">
+<img align="right" alt="coding" width="400" src="https://training.grandioseautomation.com/wp-content/uploads/2021/08/PLC-Programming.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusoaresilva&label=Profile%20views&color=0e75b6&style=flat" alt="matheusoaresilva" /> </p>
 
